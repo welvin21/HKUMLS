@@ -1,8 +1,7 @@
 # HKUMLS
 
-## Populate the datasets directory
-Due to the extremely huge size of data, I don't think committing the training and test data is a good idea. So, you could download 
-these data from [kaggle](https://www.kaggle.com/c/digit-recognizer/data). Don't forget to put them inside the datasets directory.
+## Must have
+Make sure on your local machine, you have python 3.x.x installed, otherwise please download python from [here](https://www.python.org/downloads/). Another important thing is `pip` to manage dependencies. Usually `pip` is included when installing python. Write `pip --version` on your command line to check if it is installed. If you get `pip: command not found`, check the pip installation guide [here](https://pip.pypa.io/en/stable/installing/).
 
 ## Requirements
-Do `pip install -r requirements.txt` in the main directory before you start to install all the dependencies.
+Do `pip install -r requirements.txt` in the directories where `requirements.txt` is present before you start. This installs all the dependencies on your computer locally.
