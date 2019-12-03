@@ -7,7 +7,7 @@ Run the script via command line by writing : <br/><br/>
 `model.pb` is a pre-trained model which provides the core functionality of detecting text in images.
 
 ## Examples
-![](https://github.com/welvin21/HKUMLS/blob/text_detection/TextDetection/assets/page.png?raw=true)
-![](https://github.com/welvin21/HKUMLS/blob/text_detection/TextDetection/assets/page_detected.png?raw=true)<br/><br/>
-<img src="https://github.com/welvin21/HKUMLS/blob/text_detection/TextDetection/assets/sign.png?raw=true" width=800>
-<img src="https://github.com/welvin21/HKUMLS/blob/text_detection/TextDetection/assets/sign_detected.png?raw=true" width=800>
+![](https://github.com/welvin21/HKUMLS/blob/master/TextDetection/assets/page.png?raw=true)
+![](https://github.com/welvin21/HKUMLS/blob/master/TextDetection/assets/page_detected.png?raw=true)<br/><br/>
+<img src="https://github.com/welvin21/HKUMLS/blob/master/TextDetection/assets/sign.png?raw=true" width=800>
+<img src="https://github.com/welvin21/HKUMLS/blob/master/TextDetection/assets/sign_detected.png?raw=true" width=800>
