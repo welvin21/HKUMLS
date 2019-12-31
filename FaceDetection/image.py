@@ -8,7 +8,7 @@ argsParser = argparse.ArgumentParser()
 argsParser.add_argument('-i', '--image', required=True, help='path to input image')
 argsParser.add_argument('-m', '--model', required=True, help='path to pre-trained caffe model')
 argsParser.add_argument('-p', '--proto',required=True, help='path to caffe prototxt file')
-argsParser.add_argument('-c', '--confidence', default=0.5, help='minimum probability to disable weak prediction')
+argsParser.add_argument('-c', '--confidence', default=0.5, type=float, help='minimum probability to disable weak prediction')
 
 args = vars(argsParser.parse_args())
 
