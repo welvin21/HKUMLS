@@ -1,4 +1,4 @@
-# Text Detection
+# Face Detection
 
 ## Usage
 
